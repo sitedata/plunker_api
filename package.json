@@ -22,7 +22,7 @@
     "json-gate": "~0.8.21",
     "jsonwebtoken": "^3.2.2",
     "lodash": "~2.4.1",
-    "lru-cache": "~2.5.0",
+    "lru-cache": "~2.7.3",
     "memoize": "~0.1.1",
     "mime": "~1.2.9",
     "mongoose": "^4.1.6",
